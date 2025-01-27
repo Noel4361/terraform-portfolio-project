@@ -1,0 +1,20 @@
+{
+  "name": "terraform-portfolio-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noel4361/terraform-portfolio-project.git"
+  },
+  "homepage": "https://github.com/Noel4361/terraform-portfolio-project#readme"
+}
