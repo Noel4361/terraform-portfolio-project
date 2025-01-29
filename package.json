@@ -1,20 +1,21 @@
 {
   "name": "terraform-portfolio-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A portfolio project built using Terraform and Next.js",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "next": "^15.1.6",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "next": "^12.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Noel4361/terraform-portfolio-project.git"
   },
   "homepage": "https://github.com/Noel4361/terraform-portfolio-project#readme"
+  "license": "MIT"
 }
