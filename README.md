@@ -17,4 +17,9 @@ To run this project locally, follow the steps below:
    ```bash
    git clone https://github.com/Noel4361/terraform-portfolio-project.git
 
+ ## Loom Video Link
+
+-[Loom Video](https://www.loom.com/share/8f3a0f5821da4f10a34d22209e8c4ce7?sid=6413b775-1cbc-4d88-a3cf-e21d4553a099)
+
+
 
