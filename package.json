@@ -5,10 +5,12 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "next build",
+    "export": "next build && next export"
   },
   "dependencies": {
-    "next": "^12.0.0",
+    "next": "^14.2.4",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
@@ -16,6 +18,6 @@
     "type": "git",
     "url": "git+https://github.com/Noel4361/terraform-portfolio-project.git"
   },
-  "homepage": "https://github.com/Noel4361/terraform-portfolio-project#readme"
+  "homepage": "https://github.com/Noel4361/terraform-portfolio-project#readme",
   "license": "MIT"
 }
